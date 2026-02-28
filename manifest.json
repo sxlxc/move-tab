@@ -12,8 +12,11 @@
   },
   "browser_specific_settings": {
     "gecko": {
-      "id": "move-tab-to-window@example.com",
-      "strict_min_version": "109.0"
+      "id": "move-tab-to-window@sxlxc",
+      "strict_min_version": "109.0",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
     }
   }
 }
