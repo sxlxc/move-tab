@@ -1,5 +1,7 @@
 # Move Tab To Window (Firefox extension)
 
+**NOTE: All code is written by codex.**
+
 Adds a tab context-menu entry, **Move tab to…**, with a submenu listing all other open windows.
 
 Each target window is labeled as:
